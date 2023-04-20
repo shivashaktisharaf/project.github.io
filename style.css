@@ -1,0 +1,41 @@
+body {
+	background-image: url(image.jpg);
+	background-size: cover;
+}
+
+p {
+	color: darkred;
+   }
+h1 {
+	color: rgb(255, 0, 0);
+	text-align: center;
+	border: 5px solid purple;
+	cursor: pointer;    
+}
+
+li:hover{
+	color: blue;
+}
+  .explain {
+  	       color: black;
+  	       border: 5px solid darkred;
+  	       text-decoration: underline;
+  	       text-transform: uppercase;
+  	       line-height: 50px;
+  	       font-style: italic;
+  	       font-weight: bold;
+  	       font-size: 100% ;
+  	      font-family: 'Edu NSW ACT Foundation', cursive;
+
+
+  }
+  #div1 {
+  	      color: blue;
+  }
+ .image12 {
+ 	       float: right;
+ }
+ footer {
+ 	clear: both;
+ 	text-align: center;
+ }
